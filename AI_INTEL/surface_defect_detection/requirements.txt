@@ -1,0 +1,8 @@
+opencv-python
+numpy
+matplotlib
+torch
+torchvision
+Pillow
+yolov5 # for easy YOLOv5 inference, optional
+streamlit 
